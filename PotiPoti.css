@@ -1,0 +1,51 @@
+.header {
+  background-color:pink;
+  height:82px;
+}
+h1 {
+  background-color:#ffd633;
+  color:#000033;
+  font-family:fantasy;
+  font-weight: bolder;
+  font-size: 45px;
+  padding:2px 20px;
+  margin:0px 539px;
+}
+.subtitle {
+  background-color:#006666;
+  color:white;
+  padding:0px 10px;
+  margin:0px 522px;
+  border:3px solid #99ff33;
+}
+
+.main {
+  background-color:#ffe6cc;
+  height:400px;
+
+}
+.main li{
+  list-style:none;
+  float:left;
+  color:#000033;
+  font-weight:bolder;
+  padding:0px 20px;
+  margin-top:20px;
+}
+
+.footer {
+  background-color:pink;
+  height:300px;
+}
+.footer-Contacto {
+  padding:20px 50px;
+  color:#33334d;
+}
+
+input,textarea {
+  border:1px solid #dee7ec;
+}
+.contact-submit {
+  background-color:#bb99ff
+
+}
